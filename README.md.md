@@ -28,22 +28,11 @@ Este es un proyecto básico de CRUD (Create, Read, Update, Delete) desarrollado 
 
 ---
 
-## 📸 Capturas del sistema
-
-> (Aquí puedes insertar tus imágenes con Postman o el navegador. Guarda tus imágenes en una carpeta y luego colócalas así:)
-
-```markdown
-![Postman GET personas](src/img/get-personas.png)
-![Postman POST crear persona](src/img/post-crear.png)
-```
-
 ---
 
 ## 👨‍🎓 Sobre mí
 
 Hola, soy **Christian Huarcaya**, estudiante de Ingeniería de Sistemas e Informática.  
-Comencé mi carrera técnica en 2019, y a pesar de pausas por la pandemia y dificultades técnicas, retomé con más fuerza en 2023 y hoy estoy a medio año de ser ingeniero.  
-Este proyecto representa mi vuelta a la programación backend y mi ingreso al mundo de GitHub.
 
 ---
 
@@ -63,4 +52,3 @@ Este proyecto representa mi vuelta a la programación backend y mi ingreso al mu
 ## 💬 Contacto
 
 - 📧 christianaaron0305@gmail.com
-- 💼 [LinkedIn (opcional si quieres agregar)](https://linkedin.com/in/ChristianHuarcaya)
